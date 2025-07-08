@@ -2,7 +2,7 @@ import { icons } from "@/constants/icons";
 import { Tabs } from "expo-router";
 import React from "react";
 import { StyleSheet } from "react-native";
-import { TabIcon } from "../components/TabIcon";
+import TabIcon from "../components/TabIcon";
 
 const _layout = () => {
   return (
